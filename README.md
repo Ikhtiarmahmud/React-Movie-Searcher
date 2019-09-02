@@ -12,7 +12,7 @@ The Movie Database (TMDb) is a community built movie and TV database. Every piec
 
 > https://github.com/Ikhtiarmahmud/React-Movie-Searcher.git
 
-[Download Now](https://github.com/Ikhtiarmahmud/React-Movie-Searcher/archive/master.zip)
+ [Download Now](https://github.com/Ikhtiarmahmud/React-Movie-Searcher/archive/master.zip)
 
 ### From terminal/ssh bash/commandline use below code to install necessary package
 
