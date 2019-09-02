@@ -4,6 +4,8 @@
 
 The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by TBD amazing community dating back to 2008. TMDb's strong international focus and breadth of data is largely unmatched. Put simply, It live and breathe community and that's precisely what makes this different.
 
+[Watch Demo](https://bs-movie.netlify.com/)
+
 ### `Set Up Guidelines`
 
 ### `Clone Or Download from Github`
