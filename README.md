@@ -8,16 +8,16 @@ The Movie Database (TMDb) is a community built movie and TV database. Every piec
 
 # Set Up Guidelines
 
-### `Clone Or Download from Github`
+### Clone Or Download from Github
 
 > https://github.com/Ikhtiarmahmud/React-Movie-Searcher.git
 
 [Download Now](https://github.com/Ikhtiarmahmud/React-Movie-Searcher/archive/master.zip)
 
-### `From terminal/ssh bash/commandline use below code to install necessary package`
+### From terminal/ssh bash/commandline use below code to install necessary package
 
-> npm install
+> `npm install`
 
-### `Run your react server`
+### Run your react server
 
-> npm start
+> `npm start`
